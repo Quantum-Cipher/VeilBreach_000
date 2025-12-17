@@ -11,7 +11,7 @@ While running a years-long private experiment measuring the correlation between 
 - Extension cord suddenly exploded (loud pop + sparks)  
 - Intense burning smell filled the room  
 - Two light bulbs blew out simultaneously  
-- Firefox displayed an unprompted electrical-fire safety warning  
+- Firefox had displayed unprompted electrical-fire safety/fatal injury warnings several hours prior to tthe explosion
 
 Zero prior damage. Zero loose connections. Zero coincidence.
 
